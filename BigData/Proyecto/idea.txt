@@ -1,0 +1,9 @@
+Inflacion de cada pais, desde el año 1960 hasta el 2022
+La media de los salarios de cada poblacion
+De alguna manera compararlo con la perdida del poder adquisitivo en la actual.
+
+Con esto se puede sacar estadisticas y datos con cualquier dataset de datos como el precio de un alquiler.
+
+paginas para la extraccion de datos:
+https://datosmacro.expansion.com/mercado-laboral/salario-medio/espana
+https://datos.bancomundial.org/indicator/FP.CPI.TOTL.ZG?locations=ES
