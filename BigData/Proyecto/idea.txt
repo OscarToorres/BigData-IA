@@ -1,3 +1,13 @@
+REQUISITOS:
+Varios origenes de datos(diferentes) para compararlo
+Algo de:
+    -Scrapping
+    -PANDAS
+    -POWERBI
+    -Spark
+
+TAREA:
+
 Inflacion de cada pais, desde el año 1960 hasta el 2022
 La media de los salarios de cada poblacion
 De alguna manera compararlo con la perdida del poder adquisitivo en la actual.
