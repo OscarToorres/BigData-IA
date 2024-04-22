@@ -45,29 +45,29 @@
 43,2002,10.744 €,Eslovenia
 44,2001,9.870 €,Eslovenia
 45,2000,8.894 €,Eslovenia
-46,2022,15.538 €,Eslovaquia
-47,2021,14.438 €,Eslovaquia
-48,2020,13.418 €,Eslovaquia
-49,2019,13.154 €,Eslovaquia
-50,2018,12.455 €,Eslovaquia
-51,2017,11.745 €,Eslovaquia
-52,2016,11.307 €,Eslovaquia
-53,2015,10.983 €,Eslovaquia
-54,2014,10.731 €,Eslovaquia
-55,2013,10.302 €,Eslovaquia
-56,2012,10.129 €,Eslovaquia
-57,2011,9.931 €,Eslovaquia
-58,2010,9.593 €,Eslovaquia
-59,2009,9.266 €,Eslovaquia
-60,2008,9.127 €,Eslovaquia
-61,2007,8.276 €,Eslovaquia
-62,2006,7.764 €,Eslovaquia
-63,2005,7.256 €,Eslovaquia
-64,2004,6.754 €,Eslovaquia
-65,2003,6.090 €,Eslovaquia
-66,2002,5.725 €,Eslovaquia
-67,2001,5.501 €,Eslovaquia
-68,2000,5.256 €,Eslovaquia
+46,2022,15.538 €,República Eslovaca
+47,2021,14.438 €,República Eslovaca
+48,2020,13.418 €,República Eslovaca
+49,2019,13.154 €,República Eslovaca
+50,2018,12.455 €,República Eslovaca
+51,2017,11.745 €,República Eslovaca
+52,2016,11.307 €,República Eslovaca
+53,2015,10.983 €,República Eslovaca
+54,2014,10.731 €,República Eslovaca
+55,2013,10.302 €,República Eslovaca
+56,2012,10.129 €,República Eslovaca
+57,2011,9.931 €,República Eslovaca
+58,2010,9.593 €,República Eslovaca
+59,2009,9.266 €,República Eslovaca
+60,2008,9.127 €,República Eslovaca
+61,2007,8.276 €,República Eslovaca
+62,2006,7.764 €,República Eslovaca
+63,2005,7.256 €,República Eslovaca
+64,2004,6.754 €,República Eslovaca
+65,2003,6.090 €,República Eslovaca
+66,2002,5.725 €,República Eslovaca
+67,2001,5.501 €,República Eslovaca
+68,2000,5.256 €,República Eslovaca
 69,2022,62.933 €,Dinamarca
 70,2021,60.750 €,Dinamarca
 71,2020,59.027 €,Dinamarca
@@ -124,29 +124,29 @@
 122,2002,5.651 €,Costa Rica
 123,2001,6.526 €,Costa Rica
 124,2000,19.753 €,Costa Rica
-125,2022,36.651 €,Corea del Sur
-126,2021,35.892 €,Corea del Sur
-127,2020,34.746 €,Corea del Sur
-128,2019,35.459 €,Corea del Sur
-129,2018,34.558 €,Corea del Sur
-130,2017,33.368 €,Corea del Sur
-131,2016,32.237 €,Corea del Sur
-132,2015,31.591 €,Corea del Sur
-133,2014,27.580 €,Corea del Sur
-134,2013,25.910 €,Corea del Sur
-135,2012,25.145 €,Corea del Sur
-136,2011,22.488 €,Corea del Sur
-137,2010,24.073 €,Corea del Sur
-138,2009,19.384 €,Corea del Sur
-139,2008,20.923 €,Corea del Sur
-140,2007,25.422 €,Corea del Sur
-141,2006,25.443 €,Corea del Sur
-142,2005,22.645 €,Corea del Sur
-143,2004,18.935 €,Corea del Sur
-144,2003,18.826 €,Corea del Sur
-145,2002,19.733 €,Corea del Sur
-146,2001,18.112 €,Corea del Sur
-147,2000,19.022 €,Corea del Sur
+125,2022,36.651 €,"Corea, República de"
+126,2021,35.892 €,"Corea, República de"
+127,2020,34.746 €,"Corea, República de"
+128,2019,35.459 €,"Corea, República de"
+129,2018,34.558 €,"Corea, República de"
+130,2017,33.368 €,"Corea, República de"
+131,2016,32.237 €,"Corea, República de"
+132,2015,31.591 €,"Corea, República de"
+133,2014,27.580 €,"Corea, República de"
+134,2013,25.910 €,"Corea, República de"
+135,2012,25.145 €,"Corea, República de"
+136,2011,22.488 €,"Corea, República de"
+137,2010,24.073 €,"Corea, República de"
+138,2009,19.384 €,"Corea, República de"
+139,2008,20.923 €,"Corea, República de"
+140,2007,25.422 €,"Corea, República de"
+141,2006,25.443 €,"Corea, República de"
+142,2005,22.645 €,"Corea, República de"
+143,2004,18.935 €,"Corea, República de"
+144,2003,18.826 €,"Corea, República de"
+145,2002,19.733 €,"Corea, República de"
+146,2001,18.112 €,"Corea, República de"
+147,2000,19.022 €,"Corea, República de"
 148,2022,4.714 €,Colombia
 149,2021,4.273 €,Colombia
 150,2020,4.246 €,Colombia
@@ -203,29 +203,29 @@
 201,2002,6.227 €,Chile
 202,2001,6.835 €,Chile
 203,2000,7.415 €,Chile
-204,2022,19.245 €,Chequia
-205,2021,17.230 €,Chequia
-206,2020,16.010 €,Chequia
-207,2019,15.995 €,Chequia
-208,2018,14.931 €,Chequia
-209,2017,13.575 €,Chequia
-210,2016,12.381 €,Chequia
-211,2015,11.754 €,Chequia
-212,2014,11.281 €,Chequia
-213,2013,11.619 €,Chequia
-214,2012,12.028 €,Chequia
-215,2011,12.008 €,Chequia
-216,2010,11.364 €,Chequia
-217,2009,10.663 €,Chequia
-218,2008,10.930 €,Chequia
-219,2007,9.029 €,Chequia
-220,2006,8.241 €,Chequia
-221,2005,7.355 €,Chequia
-222,2004,6.556 €,Chequia
-223,2003,6.159 €,Chequia
-224,2002,6.075 €,Chequia
-225,2001,5.110 €,Chequia
-226,2000,4.520 €,Chequia
+204,2022,19.245 €,República Checa
+205,2021,17.230 €,República Checa
+206,2020,16.010 €,República Checa
+207,2019,15.995 €,República Checa
+208,2018,14.931 €,República Checa
+209,2017,13.575 €,República Checa
+210,2016,12.381 €,República Checa
+211,2015,11.754 €,República Checa
+212,2014,11.281 €,República Checa
+213,2013,11.619 €,República Checa
+214,2012,12.028 €,República Checa
+215,2011,12.008 €,República Checa
+216,2010,11.364 €,República Checa
+217,2009,10.663 €,República Checa
+218,2008,10.930 €,República Checa
+219,2007,9.029 €,República Checa
+220,2006,8.241 €,República Checa
+221,2005,7.355 €,República Checa
+222,2004,6.556 €,República Checa
+223,2003,6.159 €,República Checa
+224,2002,6.075 €,República Checa
+225,2001,5.110 €,República Checa
+226,2000,4.520 €,República Checa
 227,2022,59.660 €,Canadá
 228,2021,52.622 €,Canadá
 229,2020,49.739 €,Canadá
@@ -368,29 +368,25 @@
 366,2002,36.400 €,Alemania
 367,2001,35.200 €,Alemania
 368,2000,34.400 €,Alemania
-369,2022,7.889 €,Türkiye
-370,2021,8.275 €,Türkiye
-371,2020,9.055 €,Türkiye
-372,2019,9.727 €,Türkiye
-373,2018,8.586 €,Türkiye
-374,2017,10.049 €,Türkiye
-375,2016,11.174 €,Türkiye
-376,2015,10.309 €,Türkiye
-377,2014,9.457 €,Türkiye
-378,2013,9.739 €,Türkiye
-379,2012,9.498 €,Türkiye
-380,2011,8.430 €,Türkiye
-381,2010,9.029 €,Türkiye
-382,2009,7.591 €,Türkiye
-383,2008,7.823 €,Türkiye
-384,2007,7.487 €,Türkiye
-385,2006,8.648 €,Türkiye
-386,2005,9.383 €,Türkiye
-387,2004,7.855 €,Türkiye
-388,2003,7.455.107.665 €,Türkiye
-389,2002,7.335.796.860 €,Türkiye
-390,2001,7.031.778.734 €,Türkiye
-391,2000,9.646.884.887 €,Türkiye
+369,2022,7.889 €,Turquía
+370,2021,8.275 €,Turquía
+371,2020,9.055 €,Turquía
+372,2019,9.727 €,Turquía
+373,2018,8.586 €,Turquía
+374,2017,10.049 €,Turquía
+375,2016,11.174 €,Turquía
+376,2015,10.309 €,Turquía
+377,2014,9.457 €,Turquía
+378,2013,9.739 €,Turquía
+379,2012,9.498 €,Turquía
+380,2011,8.430 €,Turquía
+381,2010,9.029 €,Turquía
+382,2009,7.591 €,Turquía
+383,2008,7.823 €,Turquía
+384,2007,7.487 €,Turquía
+385,2006,8.648 €,Turquía
+386,2005,9.383 €,Turquía
+387,2004,7.855 €,Turquía
 392,2022,100.413 €,Suiza
 393,2021,90.581 €,Suiza
 394,2020,87.638 €,Suiza
@@ -437,33 +433,33 @@
 435,2002,31.281 €,Suecia
 436,2001,30.059 €,Suecia
 437,2000,31.211 €,Suecia
-438,2022,14.181 €,Rumanía
-439,2021,12.791 €,Rumanía
-440,2020,12.094 €,Rumanía
-441,2019,11.461 €,Rumanía
-442,2018,10.572 €,Rumanía
-443,2017,8.129 €,Rumanía
-444,2016,7.389 €,Rumanía
-445,2015,6.851 €,Rumanía
-446,2014,6.222 €,Rumanía
-447,2013,5.844 €,Rumanía
-448,2012,5.635 €,Rumanía
-449,2011,5.741 €,Rumanía
-450,2010,5.433 €,Rumanía
-451,2009,4.998 €,Rumanía
-452,2008,5.455 €,Rumanía
-453,2007,4.821 €,Rumanía
-454,2006,3.713 €,Rumanía
-455,2005,3.152 €,Rumanía
-456,2004,2.412 €,Rumanía
-457,2003,2.141 €,Rumanía
-458,2002,2.075 €,Rumanía
-459,2001,1.993 €,Rumanía
-460,2000,1.748 €,Rumanía
-461,1999,1.146 €,Rumanía
-462,1998,1.328 €,Rumanía
-463,1997,1.143 €,Rumanía
-464,1996,1.224 €,Rumanía
+438,2022,14.181 €,Rumania
+439,2021,12.791 €,Rumania
+440,2020,12.094 €,Rumania
+441,2019,11.461 €,Rumania
+442,2018,10.572 €,Rumania
+443,2017,8.129 €,Rumania
+444,2016,7.389 €,Rumania
+445,2015,6.851 €,Rumania
+446,2014,6.222 €,Rumania
+447,2013,5.844 €,Rumania
+448,2012,5.635 €,Rumania
+449,2011,5.741 €,Rumania
+450,2010,5.433 €,Rumania
+451,2009,4.998 €,Rumania
+452,2008,5.455 €,Rumania
+453,2007,4.821 €,Rumania
+454,2006,3.713 €,Rumania
+455,2005,3.152 €,Rumania
+456,2004,2.412 €,Rumania
+457,2003,2.141 €,Rumania
+458,2002,2.075 €,Rumania
+459,2001,1.993 €,Rumania
+460,2000,1.748 €,Rumania
+461,1999,1.146 €,Rumania
+462,1998,1.328 €,Rumania
+463,1997,1.143 €,Rumania
+464,1996,1.224 €,Rumania
 465,2022,51.949 €,Reino Unido
 466,2021,48.718 €,Reino Unido
 467,2020,44.934 €,Reino Unido
@@ -556,29 +552,29 @@
 554,2002,35.200 €,Países Bajos
 555,2001,33.900 €,Países Bajos
 556,2000,31.901 €,Países Bajos
-557,2022,42.569 €,Nueva Zelanda
-558,2021,39.439 €,Nueva Zelanda
-559,2020,37.010 €,Nueva Zelanda
-560,2019,37.164 €,Nueva Zelanda
-561,2018,35.997 €,Nueva Zelanda
-562,2017,37.556 €,Nueva Zelanda
-563,2016,36.672 €,Nueva Zelanda
-564,2015,35.442 €,Nueva Zelanda
-565,2014,34.463 €,Nueva Zelanda
-566,2013,33.068 €,Nueva Zelanda
-567,2012,32.569 €,Nueva Zelanda
-568,2011,28.220 €,Nueva Zelanda
-569,2010,26.123 €,Nueva Zelanda
-570,2009,21.090 €,Nueva Zelanda
-571,2008,21.435 €,Nueva Zelanda
-572,2007,23.097 €,Nueva Zelanda
-573,2006,21.082 €,Nueva Zelanda
-574,2005,22.400 €,Nueva Zelanda
-575,2004,20.613 €,Nueva Zelanda
-576,2003,19.031 €,Nueva Zelanda
-577,2002,17.675 €,Nueva Zelanda
-578,2001,16.339 €,Nueva Zelanda
-579,2000,17.214 €,Nueva Zelanda
+557,2022,42.569 €,Nueva Zelandia
+558,2021,39.439 €,Nueva Zelandia
+559,2020,37.010 €,Nueva Zelandia
+560,2019,37.164 €,Nueva Zelandia
+561,2018,35.997 €,Nueva Zelandia
+562,2017,37.556 €,Nueva Zelandia
+563,2016,36.672 €,Nueva Zelandia
+564,2015,35.442 €,Nueva Zelandia
+565,2014,34.463 €,Nueva Zelandia
+566,2013,33.068 €,Nueva Zelandia
+567,2012,32.569 €,Nueva Zelandia
+568,2011,28.220 €,Nueva Zelandia
+569,2010,26.123 €,Nueva Zelandia
+570,2009,21.090 €,Nueva Zelandia
+571,2008,21.435 €,Nueva Zelandia
+572,2007,23.097 €,Nueva Zelandia
+573,2006,21.082 €,Nueva Zelandia
+574,2005,22.400 €,Nueva Zelandia
+575,2004,20.613 €,Nueva Zelandia
+576,2003,19.031 €,Nueva Zelandia
+577,2002,17.675 €,Nueva Zelandia
+578,2001,16.339 €,Nueva Zelandia
+579,2000,17.214 €,Nueva Zelandia
 580,2022,65.935 €,Noruega
 581,2021,62.830 €,Noruega
 582,2020,58.631 €,Noruega
